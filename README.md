@@ -1,0 +1,1 @@
+# Simulação de sistema bancário criado apenas para fins de prática e aplicação de conhecimentos em Pythom.
